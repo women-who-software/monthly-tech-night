@@ -1,1 +1,1 @@
-# MonthlyJSBoulder
+# Monthly JS (Boulder) Meetup Repo
