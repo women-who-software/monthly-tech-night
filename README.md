@@ -2,7 +2,7 @@
 
 Helpful Links:
 
-- [Past Presentation Topics](./lightningTalks/README.md)
+- [Past Presentation Topics](./lightning-talks/README.md)
 
 
 Thank you to our past and current sponsors:
