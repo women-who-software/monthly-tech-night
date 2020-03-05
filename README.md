@@ -1,5 +1,8 @@
 # Monthly JS (Boulder) Meetup Repo
 
+Monthly JS is held on the first Monday of the month at Markit Digital in Boulder.
+
+
 Helpful Links:
 
 - [Past Presentation Topics](./lightning-talks/README.md)
