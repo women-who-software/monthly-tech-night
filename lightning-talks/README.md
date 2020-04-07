@@ -19,3 +19,4 @@ Dec 2019 | Containerization | Amanda Herschleb| Markit Digital
 Jan 2020 | My Experience with React Native | Alyssa Lundgren| Markit Digital
 Feb 2020 | No Meetup - Weather | N/A | N/A
 Mar 2020 | NPM Ecosystems | Aria Davis | Markit Digital
+Apr 2020 | JavaScript and SEO | Lacy Rudd | Online
