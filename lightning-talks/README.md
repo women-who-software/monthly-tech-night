@@ -19,5 +19,5 @@ Dec 2019 | Containerization | Amanda Herschleb| Markit Digital
 Jan 2020 | My Experience with React Native | Alyssa Lundgren| Markit Digital
 Feb 2020 | No Meetup - Weather | N/A | N/A
 Mar 2020 | NPM Ecosystems | Aria Davis | Markit Digital
-Apr 2020 | JavaScript and SEO | Lacy Rudd | Online
-May 2020 | [Builing a Node.js DB & Backend for Frontend pattern](https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo) | Stephen Goldberg & Meagan Cooney | Online
+Apr 2020 | [JavaScript and SEO](https://www.youtube.com/watch?v=uTY2n83AcVg&t=183s) | Lacy Rudd | Online
+May 2020 | [Builing a Node.js DB](https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo)  & [Backend for Frontend pattern](https://www.youtube.com/watch?v=WRGZ60MX1wc) | Stephen Goldberg  & Meagan Cooney | Online
