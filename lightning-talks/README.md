@@ -20,4 +20,4 @@ Jan 2020 | My Experience with React Native | Alyssa Lundgren| Markit Digital
 Feb 2020 | No Meetup - Weather | N/A | N/A
 Mar 2020 | NPM Ecosystems | Aria Davis | Markit Digital
 Apr 2020 | JavaScript and SEO | Lacy Rudd | Online
-May 2020 | [Special Edition] (https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo) | Stephen Goldberg & Meagan Cooney | Online
+May 2020 | [Builing a Node.js DB & Backend for Frontend pattern](https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo) | Stephen Goldberg & Meagan Cooney | Online
