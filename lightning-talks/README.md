@@ -21,3 +21,5 @@ Feb 2020 | No Meetup - Weather | N/A | N/A
 Mar 2020 | NPM Ecosystems | Aria Davis | Markit Digital
 Apr 2020 | [JavaScript and SEO](https://www.youtube.com/watch?v=uTY2n83AcVg&t=183s) | Lacy Rudd | Online
 May 2020 | [Builing a Node.js DB](https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo) &<br /> [Backend for Frontend pattern](https://www.youtube.com/watch?v=WRGZ60MX1wc) | Stephen Goldberg &<br /> Meagan Cooney | Online
+June 2020 | No Meetup | N/A | N/A
+July 2020 | The 5 W's of Deno | Jen Winer | Online
