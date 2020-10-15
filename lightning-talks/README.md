@@ -24,3 +24,5 @@ May 2020 | [Builing a Node.js DB](https://www.youtube.com/watch?v=0mEOgbOkteI&fe
 June 2020 | No Meetup | N/A | N/A
 July 2020 | [The 5 W's of Deno](https://www.youtube.com/watch?v=qRmh_X6_v54) | Jen Winer | Online
 Aug 2020 | My Journey With Gatsby | Dominika Wilk | Online
+Sep 2020 | No Meetup - Labor Day | N/A | N/A
+Oct 202 | How I Taught Myself with Vue.js | Alice Richardson | Online
