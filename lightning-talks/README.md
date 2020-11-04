@@ -23,6 +23,6 @@ Apr 2020 | [JavaScript and SEO](https://www.youtube.com/watch?v=uTY2n83AcVg&t=18
 May 2020 | [Builing a Node.js DB](https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo) &<br /> [Backend for Frontend pattern](https://www.youtube.com/watch?v=WRGZ60MX1wc) | Stephen Goldberg &<br /> Meagan Cooney | Online
 June 2020 | No Meetup | N/A | N/A
 July 2020 | [The 5 W's of Deno](https://www.youtube.com/watch?v=qRmh_X6_v54) | Jen Winer | Online
-Aug 2020 | My Journey With Gatsby | Dominika Wilk | Online
+Aug 2020 | [My Journey With Gatsby](https://youtu.be/NqMMcdCWfM0) | Dominika Wilk | Online
 Sep 2020 | No Meetup - Labor Day | N/A | N/A
-Oct 202 | How I Taught Myself with Vue.js | Alice Richardson | Online
+Oct 2020 | [How I Taught Myself with Vue.js](https://youtu.be/SKebje9QFBg) | Alice Richardson | Online
