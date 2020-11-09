@@ -26,4 +26,4 @@ July 2020 | [The 5 W's of Deno](https://www.youtube.com/watch?v=qRmh_X6_v54) | J
 Aug 2020 | [My Journey With Gatsby](https://youtu.be/NqMMcdCWfM0) | Dominika Wilk | Online
 Sep 2020 | No Meetup - Labor Day | N/A | N/A
 Oct 2020 | [How I Taught Myself with Vue.js](https://youtu.be/SKebje9QFBg) | Alice Richardson | Online
-Nov 2020 | Using Redux Custom Middleware to build a Layered Architecture | Sharon Kong | Online
+Nov 2020 | [Using Redux Custom Middleware to build a Layered Architecture](https://www.youtube.com/watch?v=eXOVq97A9Io) | Sharon Kong | Online
