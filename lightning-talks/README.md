@@ -27,3 +27,5 @@ Aug 2020 | [My Journey With Gatsby](https://youtu.be/NqMMcdCWfM0) | Dominika Wil
 Sep 2020 | No Meetup - Labor Day | N/A | N/A
 Oct 2020 | [How I Taught Myself with Vue.js](https://youtu.be/SKebje9QFBg) | Alice Richardson | Online
 Nov 2020 | [Using Redux Custom Middleware to build a Layered Architecture](https://www.youtube.com/watch?v=eXOVq97A9Io) | Sharon Kong | Online
+Dec 2020 | [How to Fail the JS HackerRank and Still Get the Job](https://youtu.be/uYEE22toCv4) | Nyaradzo (Naya) Bere | Online
+Jan 2021 | [Web Accessibility, Inclusivity, and Why You Should Care](https://youtu.be/9G-Cy7nKujs) | Kym Hermosillo Hooper | Online
