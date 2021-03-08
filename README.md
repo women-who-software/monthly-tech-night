@@ -1,6 +1,6 @@
 # Monthly JS (Boulder) Meetup Repo
 
-Monthly JS is held on the first Monday of the month at Markit Digital in Boulder. Check out our next Boulder Monthly JS event on our [meetup](https://www.meetup.com/Women-Who-Code-Boulder-Denver/events/).
+Monthly JS is held on the first Monday of the month online (as of now). Check out our next Boulder Monthly JS event on our [meetup](https://www.meetup.com/Women-Who-Code-Boulder-Denver/events/).
 
 ### Goals of the Monthly JS Boulder meetup
 
@@ -17,7 +17,7 @@ Monthly JS is held on the first Monday of the month at Markit Digital in Boulder
 ### Speakers Wanted
 
 We are always on the lookout for speakers for this meetup!
-Have you learned something new or neat about javascript or related tech? Did you complete a JS related project and would like to practice talking about it for interviews? Solidify your new knowledge and presentation skills by doing a lightning talk for your fellow awesome women who code members. This is a great way to exercise those speaking skills in a low-stress welcoming enviroment and get involved in our amazing community. Please contact Jen Winer @ jenwiner@womenwhocode.com, or DM her in [slack](https://docs.google.com/forms/d/e/1FAIpQLSfXD-WAi01pdtE5o5qgkqRUudV3ykfcLCslCUeTR7UNQRycXQ/viewform), if you are interested in speaking!
+Have you learned something new or neat about javascript or related tech? Did you complete a JS related project and would like to practice talking about it for interviews? Solidify your new knowledge and presentation skills by doing a lightning talk for your fellow awesome women who code members. This is a great way to exercise those speaking skills in a low-stress welcoming enviroment and get involved in our amazing community. Please contact us denver@womenwhocode.com, or DM @Jen in [slack](https://docs.google.com/forms/d/e/1FAIpQLSfXD-WAi01pdtE5o5qgkqRUudV3ykfcLCslCUeTR7UNQRycXQ/viewform), if you are interested in speaking!
 
 
 ### Helpful Links:
