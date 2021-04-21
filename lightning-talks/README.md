@@ -30,4 +30,5 @@ Nov 2020 | [Using Redux Custom Middleware to build a Layered Architecture](https
 Dec 2020 | [How to Fail the JS HackerRank and Still Get the Job](https://youtu.be/uYEE22toCv4) | Nyaradzo (Naya) Bere | Online
 Jan 2021 | [Web Accessibility, Inclusivity, and Why You Should Care](https://youtu.be/9G-Cy7nKujs) | Kym Hermosillo Hooper | Online
 Feb 2021 | [The Super Tiny Compiler](https://www.youtube.com/watch?v=1aVu1IJSwgQ) | Yuki Falcon | Online
-Mar 2021 | Atomic Design: What it is and Why You Should Use it | Ray (Rachel) Blue | Online
+Mar 2021 | [Atomic Design: What it is and Why You Should Use it](https://www.youtube.com/watch?v=dhccUvFguGQ) | Ray (Rachel) Blue | Online
+Apr 2021 | [Ready, Set, Prod! Use Firebase to Create a Production React App for Under $1](https://www.youtube.com/watch?v=pMbRNs94sbA) | Kaylee Mchugh | Online
