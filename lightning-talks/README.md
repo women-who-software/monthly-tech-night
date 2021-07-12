@@ -32,3 +32,6 @@ Jan 2021 | [Web Accessibility, Inclusivity, and Why You Should Care](https://you
 Feb 2021 | [The Super Tiny Compiler](https://www.youtube.com/watch?v=1aVu1IJSwgQ) | Yuki Falcon | Online
 Mar 2021 | [Atomic Design: What it is and Why You Should Use it](https://www.youtube.com/watch?v=dhccUvFguGQ) | Ray (Rachel) Blue | Online
 Apr 2021 | [Ready, Set, Prod! Use Firebase to Create a Production React App for Under $1](https://www.youtube.com/watch?v=pMbRNs94sbA) | Kaylee Mchugh | Online
+May 2021 | [Using React Redux Hooks](https://www.youtube.com/watch?v=RCCd0yzwW7w) | Osha Groetz | Online
+June 2021 | No Meetup | N/A | N/A
+July 2021 | Social Meetup | N/A | Online
