@@ -35,3 +35,6 @@ Apr 2021 | [Ready, Set, Prod! Use Firebase to Create a Production React App for 
 May 2021 | [Using React Redux Hooks](https://www.youtube.com/watch?v=RCCd0yzwW7w) | Osha Groetz | Online
 June 2021 | No Meetup | N/A | N/A
 July 2021 | Social Meetup | N/A | Online
+Aug 2021 | 7 JavaScript Concepts to Learn for Tech Interviews | Alison Quaglia | Online
+Sep 2021 | No Meetup - Labor Day | N/A | N/A
+Oct 2021 | Simplifying Web Accessibility | Meg Shulmister | Online
