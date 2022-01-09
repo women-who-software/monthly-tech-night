@@ -35,6 +35,9 @@ Apr 2021 | [Ready, Set, Prod! Use Firebase to Create a Production React App for 
 May 2021 | [Using React Redux Hooks](https://www.youtube.com/watch?v=RCCd0yzwW7w) | Osha Groetz | Online
 June 2021 | No Meetup | N/A | N/A
 July 2021 | Social Meetup | N/A | Online
-Aug 2021 | 7 JavaScript Concepts to Learn for Tech Interviews | Alison Quaglia | Online
+Aug 2021 | [7 JavaScript Concepts to Learn for Tech Interviews](https://www.youtube.com/watch?v=JF6o78p9ZWQ) | Alison Quaglia | Online
 Sep 2021 | No Meetup - Labor Day | N/A | N/A
-Oct 2021 | Simplifying Web Accessibility | Meg Shulmister | Online
+Oct 2021 | [Simplifying Web Accessibility](https://www.youtube.com/watch?v=7wdsDYllf-k) | Meg Shulmister | Online
+Nov 2021 | The Developers Guide to Cyber Security | Akira Brand | Online
+Dec 2021 | Squeaky Clean Code: How to Develop & Adopt Better Coding Practices | Kristi Perreault | Online
+Jan 2022 | No Meetup - Happy New Year! | N/A | N/A
