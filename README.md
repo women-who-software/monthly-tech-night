@@ -1,11 +1,11 @@
-# Monthly JS (Boulder) Meetup Repo
+# Monthly Tech Night (Boulder) Meetup Repo
 
-Monthly JS is held on the first Monday of the month online (as of now). Check out our next Boulder Monthly JS event on our [meetup](https://www.meetup.com/Women-Who-Code-Boulder-Denver/events/).
+Monthly Tech Night (formally JS Night) is held on the first Monday of the month online (as of now). Check out our next Boulder Monthly Tech Night event on our [meetup](https://www.meetup.com/Women-Who-Code-Boulder-Denver/events/).
 
-### Goals of the Monthly JS Boulder meetup
+### Goals of the Monthly Boulder/Denver Tech Night meetup
 
 - provide an opportunity for technical women to speak about technology
-- learn about new technologies in JS
+- learn about new technologies
 - make new connections/ friends and grow your network
 - create a community of women who code and women learning to code in Boulder/ Denver
 
