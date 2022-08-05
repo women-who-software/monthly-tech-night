@@ -21,8 +21,8 @@ Feb 2020 | No Meetup - Weather | N/A | N/A
 Mar 2020 | NPM Ecosystems | Aria Davis | Markit Digital
 Apr 2020 | [JavaScript and SEO](https://www.youtube.com/watch?v=uTY2n83AcVg&t=183s) | Lacy Rudd | Online
 May 2020 | [Builing a Node.js DB](https://www.youtube.com/watch?v=0mEOgbOkteI&feature=emb_logo) &<br /> [Backend for Frontend pattern](https://www.youtube.com/watch?v=WRGZ60MX1wc) | Stephen Goldberg &<br /> Meagan Cooney | Online
-June 2020 | No Meetup | N/A | N/A
-July 2020 | [The 5 W's of Deno](https://www.youtube.com/watch?v=qRmh_X6_v54) | Jen Winer | Online
+Jun 2020 | No Meetup | N/A | N/A
+Jul 2020 | [The 5 W's of Deno](https://www.youtube.com/watch?v=qRmh_X6_v54) | Jen Winer | Online
 Aug 2020 | [My Journey With Gatsby](https://youtu.be/NqMMcdCWfM0) | Dominika Wilk | Online
 Sep 2020 | No Meetup - Labor Day | N/A | N/A
 Oct 2020 | [How I Taught Myself with Vue.js](https://youtu.be/SKebje9QFBg) | Alice Richardson | Online
@@ -33,11 +33,18 @@ Feb 2021 | [The Super Tiny Compiler](https://www.youtube.com/watch?v=1aVu1IJSwgQ
 Mar 2021 | [Atomic Design: What it is and Why You Should Use it](https://www.youtube.com/watch?v=dhccUvFguGQ) | Ray (Rachel) Blue | Online
 Apr 2021 | [Ready, Set, Prod! Use Firebase to Create a Production React App for Under $1](https://www.youtube.com/watch?v=pMbRNs94sbA) | Kaylee Mchugh | Online
 May 2021 | [Using React Redux Hooks](https://www.youtube.com/watch?v=RCCd0yzwW7w) | Osha Groetz | Online
-June 2021 | No Meetup | N/A | N/A
-July 2021 | Social Meetup | N/A | Online
+Jun 2021 | No Meetup | N/A | N/A
+Jul 2021 | Social Meetup | N/A | Online
 Aug 2021 | [7 JavaScript Concepts to Learn for Tech Interviews](https://www.youtube.com/watch?v=JF6o78p9ZWQ) | Alison Quaglia | Online
 Sep 2021 | No Meetup - Labor Day | N/A | N/A
 Oct 2021 | [Simplifying Web Accessibility](https://www.youtube.com/watch?v=7wdsDYllf-k) | Meg Shulmister | Online
 Nov 2021 | [The Developers Guide to Cyber Security](https://www.youtube.com/watch?v=SVEIjPJ_4tc) | Akira Brand | Online
 Dec 2021 | [Squeaky Clean Code: How to Develop & Adopt Better Coding Practices](https://www.youtube.com/watch?v=BB1FkjfdKjI) | Kristi Perreault | Online
 Jan 2022 | No Meetup - Happy New Year! | N/A | N/A
+Feb 2022 | [The Art of Writing Secrets - Encryption for JavaScript Developers](https://youtu.be/Kqm0LZeu_-4)| Jen Schreiber | Online
+Mar 2022 | [Intro to Ensemble Programming: The power of many minds](https://youtu.be/yGalHiXG-bA) | Kathy Nielsen | Online
+Apr 2022 | No Meetup | N/A | N/A
+May 2022 | [Dig in on Grid: Modern CSS Layouts 2022 Update](https://youtu.be/SBBFPCWIu0s) | Jordan Levine | Online
+Jun 2022 | No Meetup | N/A | N/A
+Jul 2022 | No Meetup | N/A | N/A
+Aug 2022 | [Diversity & Inclusion in Tech R&D: Three Case Studies](https://youtu.be/QJ9_5Vydpv8)| Kayla Kantola | Online
