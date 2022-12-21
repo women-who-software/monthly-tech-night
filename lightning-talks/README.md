@@ -48,3 +48,5 @@ May 2022 | [Dig in on Grid: Modern CSS Layouts 2022 Update](https://youtu.be/SBB
 Jun 2022 | No Meetup | N/A | N/A
 Jul 2022 | No Meetup | N/A | N/A
 Aug 2022 | [Diversity & Inclusion in Tech R&D: Three Case Studies](https://youtu.be/QJ9_5Vydpv8)| Kayla Kantola | Online
+Oct 2022 | [CSS Animation](https://www.youtube.com/watch?v=GO3tscXl5l4)| Jordan Levine | Online
+Dec 2022 | [Getting Started with Data Visualization](https://www.youtube.com/watch?v=vrWpH8OIgFY)| Lucy Bullen | Online 
